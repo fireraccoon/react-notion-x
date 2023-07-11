@@ -1,9 +1,9 @@
 {
-  "name": "react-notion-x",
-  "version": "6.16.0",
+  "name": "@fireraccoon/react-notion-x",
+  "version": "6.16.0-alpha.0",
   "type": "module",
   "description": "Fast and accurate React renderer for Notion.",
-  "repository": "NotionX/react-notion-x",
+  "repository": "fireraccoon/react-notion-x",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "license": "MIT",
   "main": "./build/index.js",
